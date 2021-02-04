@@ -1,1 +1,2 @@
 This is my master commit
+Committing first change directly on master
